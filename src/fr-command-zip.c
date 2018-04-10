@@ -383,6 +383,7 @@ const char *zip_mime_type[] = { "application/x-cbz",
 				"application/x-ms-dos-executable",
 				"application/x-war",
 				"application/zip",
+				"application/vnd.android.package-archive",
 				NULL };
 
 
